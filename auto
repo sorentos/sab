@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/allfunch/sab/refs/heads/main/V1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/allfunch/s4b/refs/heads/main/V1"))()
